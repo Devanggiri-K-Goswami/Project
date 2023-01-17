@@ -1,0 +1,10 @@
+what is tf-idf, word2vec (CBOW, Skip gram), bagofword
+know about Naive bayse(multinomial NB, Gausian NB, Bernouli NB) and some other algo which is experiment by this project itself.
+know about precision,recall,f1 score (means all classification report)
+need to some knowledge about ensemble learning. (like voting, stacking etc...)
+
+
+
+step 1 : text preprocessing
+step 2 : vectorization
+step 3 : apply algorithm
